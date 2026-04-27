@@ -1,0 +1,25 @@
+24
+Load Image	
+Save Image	
+Change Brightness
+Change Contrast 
+Adjust Sharpeness
+Convert to Binary
+Image Resizing
+Rotate 90 (clockwise or anticlockwise)
+Rotate by an Angle
+Flip Horizontal 
+Flip Vertically 
+Cropping 
+Add an Image side-by-side or top-to-bottom
+Mean Filter 
+Apply Median Filter 
+Apply General Filter(3x3 matrix txt file)
+Enhance 
+Compute Derivatives
+Find Edges 
+Translation 
+Scale 
+Rotation 
+Flip
+Exit 
